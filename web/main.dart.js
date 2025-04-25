@@ -51031,10 +51031,10 @@ A.yA.prototype={
 S(a){var s=null
 return new A.pY(B.AO,"GlamSync",A.a2k(s,s,B.B9,s),!1,s)}}
 A.lu.prototype={
-S(a){return A.a24(A.a0M(B.IO),B.vD)}}
+S(a){return A.a24(A.a0M(B.IP),B.vD)}}
 A.yn.prototype={
 S(a){var s=null
-return A.a24(A.a0M(B.IL),A.IM(A.acr(A.b([B.IR,new A.xm(new A.Nh(a),s,s,s,s,s,s,!1,s,!0,s,B.IQ,s),new A.AG(new A.Ni(a),s,s,s,s,s,s,!1,s,!0,s,B.IK,s)],t.nA),B.nF),s,s))}}
+return A.a24(A.a0M(B.IN),A.IM(A.acr(A.b([B.IK,new A.xm(new A.Nh(a),s,s,s,s,s,s,!1,s,!0,s,B.IR,s),new A.AG(new A.Ni(a),s,s,s,s,s,s,!1,s,!0,s,B.IL,s)],t.nA),B.nF),s,s))}}
 A.Nh.prototype={
 $0(){var s=A.a1G(new A.Ng(),null,t.z)
 A.yG(this.a).mO(s)},
@@ -51050,7 +51050,7 @@ A.Nf.prototype={
 $1(a){return B.CW},
 $S:342}
 A.mc.prototype={
-S(a){return A.a24(A.a0M(B.IP),B.vC)}}
+S(a){return A.a24(A.a0M(B.IQ),B.vC)}}
 A.oT.prototype={
 ad(a){var s,r,q=this.x,p=q.k(0,a)
 if(p!=null)return p
@@ -53902,10 +53902,10 @@ B.d5=new A.FO()
 B.vw=new A.GC()
 B.vx=new A.GE()
 B.vB=new A.of(null,null,null,null,null,null,null)
-B.IN=new A.el("Registration form goes here",null,null,null,null)
-B.vC=new A.lr(B.a1,null,null,B.IN,null)
-B.IM=new A.el("Client Home Page",null,null,null,null)
-B.vD=new A.lr(B.a1,null,null,B.IM,null)
+B.IM=new A.el("Registration Form Here",null,null,null,null)
+B.vC=new A.lr(B.a1,null,null,B.IM,null)
+B.IO=new A.el("Client Home Page",null,null,null,null)
+B.vD=new A.lr(B.a1,null,null,B.IO,null)
 B.vE=new A.og(null,null,null,null,null,null,null,null,null)
 B.vF=new A.oh(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.vG=new A.cq(0,B.r)
@@ -55701,12 +55701,12 @@ B.HL=new A.l(!0,B.z,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.I_=new A.l(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.FF=new A.l(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.IJ=new A.cG(B.H_,B.Gd,B.H0,B.Hq,B.FV,B.G1,B.Gt,B.Hi,B.GE,B.HP,B.Fw,B.FM,B.HL,B.I_,B.FF)
-B.IK=new A.el("Go to Register",null,null,null,null)
-B.IL=new A.el("Login",null,null,null,null)
-B.IO=new A.el("Client Dashboard",null,null,null,null)
-B.IP=new A.el("Register",null,null,null,null)
-B.IQ=new A.el("Login as Client",null,null,null,null)
-B.IR=new A.el("Login Screen",null,null,null,null)
+B.IK=new A.el("Login to GlamSync",null,null,null,null)
+B.IL=new A.el("Go to Register",null,null,null,null)
+B.IN=new A.el("Login",null,null,null,null)
+B.IP=new A.el("Client Dashboard",null,null,null,null)
+B.IQ=new A.el("Register",null,null,null,null)
+B.IR=new A.el("Login as Client",null,null,null,null)
 B.KZ=new A.UY(0,"system")
 B.IS=new A.rT(null)
 B.tx=new A.AO(0,"clamp")
